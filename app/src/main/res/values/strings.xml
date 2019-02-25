@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IrinaKolobovaHW6</string>
+    <string name="hint_text">Enter name of the state or capital of the state:</string>
+    <string name="result_button">Show result</string>
+</resources>
